@@ -1,0 +1,30 @@
+{
+  "name": "hey-ashish",
+  "version": "1.0.0",
+  "description": "This is package about me.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamashishshah/hey-ashish-npm.git"
+  },
+  "keywords": [
+    "ashish"
+  ],
+  "author": "Ashish Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamashishshah/hey-ashish-npm/issues"
+  },
+  "homepage": "https://github.com/iamashishshah/hey-ashish-npm#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "bin": {
+  "hey-ashish": "./index.js"
+}
+
+}
